@@ -33,7 +33,7 @@ class TreinadorDigitacao:
 
         self.janela.mainloop()
 
-    def gerar_texto(self):
+    def gerar_texto(self):  # Aqui você modifica as frases 
         textos = [
             "O rato roeu a roupa do rei de Roma.",
             "A vaca malhada foi molhada pela chuva.",
